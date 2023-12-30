@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+body
+		{
+			background-image: url(Images/graybackground.jpg);
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			font-family: Arial;
+		}
+		#horizontal-line
+		{
+		width: 1330px;
+		height: 1.5px;
+		background-color: black;
+		}
+
+		a:link, a:visited
+		{
+			padding: 20px;
+			display: inline-block;
+			border-radius: none;
+		}
+		ul 
+		{
+ 		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+  		overflow: hidden;
+  		background-color: lightgray;
+
+		}
+
+		li 
+		{
+		  float: left;
+		}
+
+		li a, .dropbtn 
+		{
+		  display: inline-block;
+		  color: black;
+		  text-align: center;
+		  padding: 10px;
+		  text-decoration: none;
+		  font-family: Century Gothic;
+		  font-size: 20px;
+		}
+
+		li a:hover, .dropdown:hover .dropbtn 
+		{
+		  background-color: gray;
+		}
+
+		
+	
+		div
+		{
+			width: 60%;
+			margin: 0 auto;
+		}
+		
+
+		p 
+		{
+			font-size: 10px;
+			margin-left: 9%;
+			margin-top: 6%
+		}
+		h4
+		{
+			margin-left: 1%;
+		}
+
+.content h1
+{
+	font-size: 70px;
+	font-weight: 100;
+	margin-top: 24px;
+	margin-bottom: 15px;
+	colour: black;
+	text-align: left;
+
+}
+
+.content 
+{
+	margin-left: 10%;
+	margin-top: 10%;
+}
